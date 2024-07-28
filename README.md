@@ -1,5 +1,6 @@
 ## OFFXOR HERE 👋
-
+Welcome to OffXOR Repos!
+Dive into the world of bug bounty hunting with our concise tutorials, live PoC demonstrations, and expert insights. From finding vulnerabilities to showcasing real-world exploits, we’ve got everything you need to elevate your cybersecurity skills. Subscribe for hands-on guides, live walkthroughs, and the latest in ethical hacking.
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
